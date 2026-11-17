@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# [À VALIDER] — domaine réel
+Sitemap: https://ciao-kombucha.fr/sitemap.xml

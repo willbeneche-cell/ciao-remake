@@ -1,0 +1,48 @@
+
+> ciao-kombucha@0.1.0 dev
+> vite --host 127.0.0.1 --port 5173
+
+Port 5173 is in use, trying another one...
+
+  [32m[1mVITE[22m v7.3.8[39m  [2mready in [0m[1m404[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://127.0.0.1:[1m5174[22m/[39m
+[2m18:37:17[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:37:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Hero.tsx, /src/styles/global.css[22m
+[2m18:38:01[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:38:56[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Navbar.tsx, /src/styles/global.css[22m
+[2m18:39:00[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Loader.tsx, /src/styles/global.css[22m
+[2m18:39:34[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/BubbleField.tsx, /src/components/Cursor.tsx, /src/components/Hero.tsx, /src/styles/global.css[22m
+[2m18:44:18[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:44:25[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/App.tsx, /src/components/Hero.tsx, /src/components/Loader.tsx[22m
+[2m18:45:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:45:13[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/App.tsx, /src/components/Hero.tsx, /src/components/Loader.tsx[22m
+[2m18:45:21[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/Hero.tsx, /src/components/Loader.tsx, /src/styles/global.css[22m
+[2m18:47:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:47:18[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/styles/global.css[22m
+[2m18:47:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/FlavorRail.tsx[22m
+[2m18:47:49[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:48:59[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/Gamme.tsx[22m
+[2m18:50:14[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/components/Hero.tsx, /src/components/Loader.tsx, /src/components/Gamme.tsx, /src/styles/global.css[22m
+[2m18:50:18[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/Gamme.tsx[22m
+[2m18:50:44[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/FlavorRail.tsx[22m
+[2m18:51:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/components/Loader.tsx, /src/styles/global.css[22m
+[2m18:57:11[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/Gamme.tsx[22m
+[2m18:57:48[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m18:57:54[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/Gamme.tsx[22m
+[2m18:57:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/FlavorRail.tsx[22m
+[2m18:59:42[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/components/Gamme.tsx[22m
+[2m18:59:46[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:02:22[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:02:26[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/styles/global.css[22m
+[2m19:03:02[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:03:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:03:45[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:08:24[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:08:29[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/App.tsx, /src/components/Hero.tsx, /src/components/Loader.tsx, /src/components/Gamme.tsx[22m
+[2m19:08:30[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css, /src/App.tsx, /src/components/Hero.tsx, /src/components/Loader.tsx, /src/components/Gamme.tsx[22m
+[2m19:12:35[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:12:52[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:12:57[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/App.tsx, /src/styles/global.css[22m
+[2m19:15:09[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles/global.css[22m
+[2m19:16:06[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m

@@ -1,0 +1,18 @@
+{
+  "toutes_gammes_02": {
+    "width": 1600,
+    "height": 800,
+    "widths": [
+      900,
+      1600
+    ]
+  },
+  "toutes_gammes_01": {
+    "width": 1600,
+    "height": 803,
+    "widths": [
+      900,
+      1600
+    ]
+  }
+}

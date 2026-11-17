@@ -1,0 +1,82 @@
+{
+  "cerise": {
+    "width": 278,
+    "height": 737,
+    "ratios": 0.3772,
+    "widths": [
+      278
+    ]
+  },
+  "citron": {
+    "width": 140,
+    "height": 352,
+    "ratios": 0.3977,
+    "widths": [
+      140
+    ]
+  },
+  "dragon": {
+    "width": 140,
+    "height": 352,
+    "ratios": 0.3977,
+    "widths": [
+      140
+    ]
+  },
+  "fruits_rouges": {
+    "width": 140,
+    "height": 352,
+    "ratios": 0.3977,
+    "widths": [
+      140
+    ]
+  },
+  "gingembre_hibiscus": {
+    "width": 140,
+    "height": 352,
+    "ratios": 0.3977,
+    "widths": [
+      140
+    ]
+  },
+  "litchi": {
+    "width": 167,
+    "height": 427,
+    "ratios": 0.3911,
+    "widths": [
+      167
+    ]
+  },
+  "mangue_passion": {
+    "width": 142,
+    "height": 352,
+    "ratios": 0.4034,
+    "widths": [
+      142
+    ]
+  },
+  "menthe": {
+    "width": 140,
+    "height": 352,
+    "ratios": 0.3977,
+    "widths": [
+      140
+    ]
+  },
+  "pasteque": {
+    "width": 141,
+    "height": 352,
+    "ratios": 0.4006,
+    "widths": [
+      141
+    ]
+  },
+  "peche": {
+    "width": 140,
+    "height": 352,
+    "ratios": 0.3977,
+    "widths": [
+      140
+    ]
+  }
+}
