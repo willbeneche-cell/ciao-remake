@@ -27,5 +27,11 @@
     "tailwindcss": "^4.1.16",
     "typescript": "^5.9.3",
     "vite": "^7.1.12"
-  }
+  },
+  "scripts": {
+  "postinstall": "chmod +x node_modules/.bin/*",
+  "dev": "vite",
+  "build": "tsc --noEmit && vite build",
+  "preview": "vite preview"
+ },
 }
